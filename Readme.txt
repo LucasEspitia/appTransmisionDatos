@@ -22,5 +22,3 @@ for example: dir/pypy pks.py
 
 #BUGS
 I apologize, but there is one bug when you save the file name, the first input that you put in the "save file with name" will send a message. If you type another, you will save the file with that name, I know it could be a little bit strange but I didn't have the time to fixed it or well find it... 
-
-During class, I can show you a version of the project without the bug.
